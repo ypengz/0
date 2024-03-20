@@ -39,3 +39,5 @@ def main():
 
 if __name__ == "__main__":
     main
+
+#Adding decoder functionality to the first student‘s code
